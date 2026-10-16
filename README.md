@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <li>
 <b>Gender:</b> He/Male</li>
 <li>
-<b>Likes:</b> Basketball, Anime</li>
+<b>Likes:</b> basketball, anime</li>
 <li>
 <b>Hobbies:</b> ROM Stuff, Reading Manga</li>
 <br><br><br>
