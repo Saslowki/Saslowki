@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2 align="center">  About me </h2>
 <li><b>Name:</b> Nemo</li>
 <li>
-<b>Nickname:</b> Saslowki</li>
+<b>Nickname:</b> omen33</li>
 <li>
 <b>Gender:</b> He/Male</li>
 <li>
